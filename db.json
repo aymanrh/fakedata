@@ -1,9 +1,28 @@
 {
-  "users":
+  "contacts": [
 {
-  "userId": 2,
-  "id": 2,
-  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-  "body": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
-}
+  "number": 1234567,
+  "name": "server1234567"
+},
+    {
+      "number": 7654321,
+      "name": "server"
+    },
+    {
+      "number": 1234,
+      "name": "server"
+    },
+    {
+      "number": 5555,
+      "name": "srv555"
+    },
+    {
+      "number": 33333,
+      "name": "3serv"
+    },
+    {
+      "number": 456,
+      "name": "testserver"
+    }
+  ]
 }
