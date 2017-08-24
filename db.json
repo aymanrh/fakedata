@@ -39,11 +39,5 @@
       "LastSeen": "1491287920000",
       "IsProfilePrivate": "0"
     }
-  ],
-  "statuscode": {
-    "captcha_b64": "0",
-    "code": "0"
-  },
-  "ProfileType": "1",
-  "LoadMoreResults": false
+  ]
 }
