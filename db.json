@@ -1,43 +1,6 @@
 {
-  "profiles": [
-    {
-      "numbers": [
-        {
-          "mo": "+9613267267",
-          "isprimary": true
-        }
-      ],
-      "id": "1",
-      "name": "Dr. michel khouri",
-      "firstname": "",
-      "lastname": "",
-      "url": "",
-      "status": "available",
-      "ischat": 1,
-      "thumb": "",
-      "email": "mkhuri@UL.edu.lb",
-      "birth": "",
-      "loc": "Lebanon ",
-      "gender": 0,
-      "hometown": "",
-      "jobtitle": "",
-      "company": "",
-      "website": "",
-      "street": "",
-      "zipcode": "",
-      "premium": "",
-      "country": "Lebanon ",
-      "skypeid": "",
-      "facebookid": "668486850",
-      "fbname": "",
-      "linkid": "",
-      "linkname": "",
-      "xmmpp": "xmpp4.numberbooksocial.com",
-      "xmmppport": "7222",
-      "xmmppname": "9613267267",
-      "isnb": "1",
-      "LastSeen": "1491287920000",
-      "IsProfilePrivate": "0"
-    }
-  ]
+  "contact": {
+    "numbers": "123456",
+    "name": "Dr. michel khouri"
+  }
 }
