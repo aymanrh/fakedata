@@ -1,28 +1,48 @@
 {
-  "contacts": [
+  "profiles": [
     {
-      "number": 1234567,
-      "name": "server1234567"
-    },
-    {
-      "number": 7654321,
-      "name": "server"
-    },
-    {
-      "number": 1234,
-      "name": "server"
-    },
-    {
-      "number": 5555,
-      "name": "1"
-    },
-    {
-      "number": 33333,
-      "name": "1"
-    },
-    {
-      "number": 456,
-      "name": "testserver"
+      "numbers": [
+        {
+          "mo": "123456",
+          "isprimary": true
+        }
+      ],
+      "id": "1",
+      "name": "prof1",
+      "firstname": "test",
+      "lastname": "last",
+      "url": "",
+      "status": "",
+      "ischat": 0,
+      "thumb": "",
+      "email": "",
+      "birth": "",
+      "loc": "",
+      "gender": 0,
+      "hometown": "",
+      "jobtitle": "",
+      "company": "",
+      "website": "",
+      "street": "",
+      "zipcode": "",
+      "premium": "",
+      "country": "",
+      "skypeid": "",
+      "facebookid": "",
+      "fbname": "",
+      "linkid": "",
+      "linkname": "",
+      "xmmpp": "",
+      "xmmppport": "",
+      "xmmppname": "",
+      "isnb": "",
+      "LastSeen": "",
+      "IsProfilePrivate": ""
     }
-  ]
+  ],
+  "LoadMoreResults": false,
+  "statuscode": {
+    "captcha_b64": "",
+    "code": "0"
+  }
 }
