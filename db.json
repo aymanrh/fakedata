@@ -1,6 +1,12 @@
 {
-  "contact": {
+  "contact": [
+    {
     "numbers": "123456",
-    "name": "Dr. michel khouri"
-  }
+      "name": "zzzzzzzz"
+    },
+    {
+      "numbers": "03590636",
+      "name": "asasdasd"
+    }
+  ]
 }
