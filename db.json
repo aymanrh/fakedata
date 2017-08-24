@@ -1,12 +1,6 @@
 {
   "profiles": [
     {
-      "numbers": [
-        {
-          "mo": "123456",
-          "isprimary": true
-        }
-      ],
       "id": "1",
       "name": "prof1",
       "firstname": "test",
@@ -39,10 +33,5 @@
       "LastSeen": "",
       "IsProfilePrivate": ""
     }
-  ],
-  "LoadMoreResults": false,
-  "statuscode": {
-    "captcha_b64": "",
-    "code": "0"
-  }
+  ]
 }
